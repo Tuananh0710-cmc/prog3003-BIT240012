@@ -1,0 +1,5 @@
+com\example\designpatterndemo\MediaPlayer.class
+com\example\designpatterndemo\AudioPlayer.class
+com\example\designpatterndemo\MediaAdapter.class
+com\example\designpatterndemo\DesignPatternDemo.class
+com\example\designpatterndemo\VlcPlayer.class
